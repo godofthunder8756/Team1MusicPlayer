@@ -5,8 +5,13 @@ A small test of the immersion algorithm that generates binaural beats and isochr
 ![alt text](https://github.com/godofthunder8756/Team1MusicPlayer/blob/main/unknown.png)
 
 Freq Shift:      Brain Wave Influence:
+
 0                Normal
+
 1-3              Delta (deep, dreamless sleep)
+
 4-6              Theta (dreaming, 'auto pilot' state)
+
 6-8              Alpha (relax and recharge)
+
 8+               Beta and Gamma --damages audio--
